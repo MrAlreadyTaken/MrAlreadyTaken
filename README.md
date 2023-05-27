@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAlreadyTaken
 - 👀 I’m interested in playing guitar and coding.
-- 🌱 I’m currently learning node.js, react.js and haskell.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps.
 - 💞️ I’m looking to collaborate on NFT projects.
 - 📫 How to reach me? Send me email here sitonesj@gmail.com
 
